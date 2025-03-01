@@ -1,5 +1,5 @@
-Subscription Economy Survey – Cleaned Dataset
-
+**Subscription Economy Survey – Cleaned Dataset
+**
 This dataset contains cleaned survey responses collected for The Subscription Economy: A Comparative Study of Consumer Preferences and Trends. The data reflects consumer behaviours, preferences, and opinions on subscription-based services across various industries.
 Dataset Features:
 
