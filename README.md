@@ -1,63 +1,45 @@
-### **Subscription Economy Survey – Cleaned Dataset**  
+### **Subscription Economy Survey Dataset**  
 
-This dataset contains cleaned and structured survey responses collected for *The Subscription Economy: A Comparative Study of Consumer Preferences and Trends*. The study aims to analyse consumer behaviour, preferences, spending patterns, and satisfaction levels regarding subscription-based services across various industries.  
+## **Overview**  
+This repository contains the dataset collected for a research study on the **Subscription Economy**, examining consumer preferences, behaviour, and trends in subscription-based services. The dataset was obtained through an online survey designed to analyse various factors influencing consumer adoption, retention, and perception of subscription services across multiple industries.  
 
-#### **Source & Overview of the Data**  
-- **Location:** The survey was conducted in **Mumbai, India**, capturing insights from urban consumers.  
-- **Sample Size:** A total of **110 respondents** participated in the survey, providing diverse perspectives on subscription services.  
-- **Timeframe:** The data was collected between **January to February 2025**, ensuring relevance to recent trends in the subscription economy.  
-- **Target Audience:** The sample includes individuals across different age groups, income brackets, and professional backgrounds, ensuring a comprehensive analysis of consumer preferences.  
+## **Research Context**  
+The subscription economy has seen rapid growth in recent years, transforming how consumers access products and services. From streaming platforms and cloud storage to software and meal-kit deliveries, subscription-based business models are reshaping traditional ownership patterns. This study aims to understand key consumer preferences and the factors driving the shift towards subscription-based services.  
 
-#### **Understanding the Subscription Economy**  
-Subscription-based business models have transformed how consumers access products and services, ranging from entertainment and education to utilities and personal care. This dataset provides valuable insights into how individuals interact with subscription services, their motivations for subscribing or cancelling, and the factors influencing their choices.  
+## **Dataset Information**  
+The dataset was collected using **Google Forms** and circulated via **snowball sampling** through platforms like **LinkedIn and WhatsApp**. Respondents were randomly approached to ensure a diverse representation. Given that the study was conducted in **Mumbai, India**, the questionnaire was made available in **three languages: English, Hindi, and Marathi** to ensure accessibility.  
 
-#### **Key Features of the Dataset**  
+### **Data Structure**  
+- The dataset is stored in a CSV file named **"Subscription Economy Survey (Responses).csv"**  
+- It consists of **multiple-choice, Likert scale, and open-ended responses**  
+- The dataset has been **cleaned** to remove multilingual translations, leaving only English responses for ease of analysis in statistical tools like SPSS, Python, and R  
 
-1. **Demographic Information:**  
-   - Age group, gender, education level, and employment status.  
-   - Income bracket to assess affordability and spending behaviour.  
+### **Variables in the Dataset**  
+The dataset includes variables covering the following aspects:  
+1. **Demographics** – Age, Gender, Income Level, Education  
+2. **Subscription Behaviour** – Current subscriptions, Frequency of usage, Preferred subscription types  
+3. **Adoption Drivers** – Convenience, Cost-effectiveness, Exclusive content, Brand loyalty  
+4. **Retention & Cancellation Factors** – Satisfaction levels, Auto-renewal preferences, Ease of cancellation  
+5. **Comparison to Traditional Ownership** – Consumer willingness to shift to subscription models in various industries  
 
-2. **Subscription Usage Patterns:**  
-   - Types of subscriptions respondents use (e.g., streaming services, software, fitness, food delivery, e-learning, etc.).  
-   - Frequency and duration of subscriptions (monthly, yearly, or long-term).  
-   - Number of active subscriptions per respondent.  
+## **Hypotheses & Research Questions**  
+The dataset has been designed to test multiple hypotheses related to **consumer behaviour in the subscription economy**. Some key research questions include:  
+- Does income level influence subscription adoption?  
+- Are younger consumers more likely to subscribe than older demographics?  
+- How do brand reputation and exclusive content impact subscription decisions?  
+- Do consumers prefer subscriptions over one-time purchases?  
 
-3. **Consumer Preferences and Motivations:**  
-   - Primary reasons for choosing subscription-based services over one-time purchases.  
-   - Key factors influencing subscription decisions (e.g., price, convenience, content variety, customer service).  
-   - Preferences for bundled vs individual subscriptions.  
+## **Usage & Applications**  
+This dataset can be used for:  
+✅ **Consumer behaviour analysis** – Identifying patterns in subscription preferences  
+✅ **Market research** – Understanding factors driving the subscription economy  
+✅ **Statistical modelling** – Running hypothesis tests and regression analysis  
+✅ **Machine learning applications** – Predicting consumer subscription likelihood  
 
-4. **Spending and Financial Considerations:**  
-   - Monthly and yearly expenditure on subscription services.  
-   - Willingness to pay for premium features or ad-free experiences.  
-   - Budgeting strategies related to subscriptions.  
+## **How to Use This Dataset**  
+1. Download the CSV file from the **"Data"** folder  
+2. Load it into **Python (Pandas), R, or SPSS** for analysis  
+3. Perform statistical tests, data visualisation, or machine learning models based on research objectives  
 
-5. **Satisfaction and Cancellation Insights:**  
-   - Overall satisfaction levels with current subscriptions.  
-   - Common reasons for unsubscribing (e.g., high costs, lack of value, better alternatives).  
-   - Likelihood of renewing subscriptions vs switching to competitors.  
-
-6. **Future Subscription Trends:**  
-   - Interest in emerging subscription models (e.g., AI-powered services, metaverse memberships).  
-   - Perception of subscription fatigue and market saturation.  
-   - Predictions on whether subscriptions will continue to dominate various industries.  
-
-#### **Data Cleaning & Processing:**  
-The dataset has undergone extensive preprocessing to enhance its quality and usability, including:  
-- **Removal of duplicate responses and inconsistencies** to maintain data integrity.  
-- **Standardisation of categorical variables** for uniformity in analysis.  
-- **Handling of missing values** through appropriate imputation techniques.  
-- **Conversion of relevant fields into numerical formats** for statistical and machine learning applications.  
-
-#### **Potential Use Cases for Analysis:**  
-This dataset can be leveraged for various research and business applications, such as:  
-- **Consumer Behaviour Analysis:** Identifying patterns in subscription usage across different demographic segments.  
-- **Pricing Strategy Insights:** Understanding price sensitivity and willingness to pay for subscription services.  
-- **Market Research:** Assessing the competitive landscape and consumer preferences for different industries.  
-- **Predictive Modelling:** Forecasting future subscription trends using machine learning techniques.  
-- **Business Strategy Development:** Helping companies refine their subscription offerings based on user feedback and market demand.  
-
-#### **Access & Usage:**  
-🔗 **GitHub Repository:** [Subscription Economy Survey – Cleaned CSV](https://github.com/oghimanshu/Subscription-Economy-Survey/blob/main/Subscription_Economy_Survey_Cleaned.csv)  
-
-This dataset is ideal for researchers, analysts, and businesses looking to explore the subscription economy's impact on consumer habits. If you have any questions or require additional details, feel free to reach out! 🚀  
+## **License & Attribution**  
+This dataset is made available for academic and research purposes. Proper attribution is required if used in any publication or research work. 
