@@ -5,7 +5,7 @@ This dataset contains cleaned and structured survey responses collected for *The
 #### **Source & Overview of the Data**  
 - **Location:** The survey was conducted in **Mumbai, India**, capturing insights from urban consumers.  
 - **Sample Size:** A total of **110 respondents** participated in the survey, providing diverse perspectives on subscription services.  
-- **Timeframe:** The data was collected between **[January to February 2025]**, ensuring relevance to recent trends in the subscription economy.  
+- **Timeframe:** The data was collected between **January to February 2025**, ensuring relevance to recent trends in the subscription economy.  
 - **Target Audience:** The sample includes individuals across different age groups, income brackets, and professional backgrounds, ensuring a comprehensive analysis of consumer preferences.  
 
 #### **Understanding the Subscription Economy**  
